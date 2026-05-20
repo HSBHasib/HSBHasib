@@ -1,51 +1,109 @@
-<!--
-**HSBHasib/HSBHasib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:161b22&height=220&section=header&text=Frontend%20Developer&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=WELCOME%20TO%20MY%20PROFILE&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://www.linkedin.com/in/hasibur-rahman19/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/HSBHasib">
+    <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" height="28"/>
+  </a>
+  &nbsp;
+  <a href="mailto:hasibhsb19@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/>
+  </a>
+  &nbsp;
+  <a href="https://hasib-portfolio-silk.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white" height="28"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-# Hi there! 👋
-I'm Hasibur Rahman, a Web Developer live in Bangladesh
 <br/>
-I design and build whatever i can imagine
 
-My tech stack is,
-<br/>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<h1 align="center">Hi 👋, I'm Hasibur Rahman</h1>
+
+<h3 align="center">Frontend Developer &nbsp;|&nbsp; Designing Scalable Systems &nbsp;|&nbsp; Dynamic Web Applications</h3>
+
+<p align="center">Building sleek, user-focused web experiences with modern, scalable technology.</p>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Frontend%20Developer-2ea043?style=for-the-badge" />
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+> I'm a **Frontend Developer** with expertise in **React**, **JavaScript**, and **Next.js**. I craft modern, scalable web applications, combining technical precision with creativity. I'm passionate about solving real-world problems through elegant, user-centered design, and I'm always optimizing for performance and user experience.
+
+---
+
+### 💬 Talking about Personal Stuff:
+
+- 🛠️ &nbsp;I'm currently working with **JavaScript**, **React**, and **Next.js** to build dynamic web applications.
+- 🚀 &nbsp;I'm currently exploring advanced concepts in **Node.js**, as well as diving into new fields.
+- 📫 &nbsp;Reach me out: **hasibhsb19@gmail.com**
+- 📍 &nbsp;Based in **Tongi, Gazipur, Bangladesh 🇧🇩**
+
+### ❤️ My Absolute Favorites:
+
+- Tackling complex challenges, and continuously expanding my technical skills.
+- Collaborating on innovative projects and participating in tech communities.
+- I enjoy applying my knowledge to create solutions that make a real-world impact.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### ⚙️ Languages & Frameworks
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,mongodb,express&theme=dark" />
 </p>
 
+### 🎨 UI/UX & Productivity Tools
 
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,netlify&theme=dark" />
+</p>
 
-I have got a bunch of pinned projects
-<br/>
-I have build over '60' public repos
+---
 
-📫 How to reach me **hasibhsb19@gmail.com**
-<br/>
-Connect with me: https://www.linkedin.com/in/hasibur-rahman19/
+## 🧠 Code Profile
 
+```js
+const hasibweb = {
+  pronouns: "he/him",
+  languages: ["JavaScript", "HTML", "CSS"],
+  frameworksAndLibraries: ["React", "Next.js", "Tailwind CSS", "DaisyUI", "Hero UI"],
+  database: ["MongoDB"],
+  tools: ["Git", "GitHub", "VS Code", "Vercel", "Netlify", "Figma"],
+  architecture: ["Responsive Web Design", "Component-Based Design", "REST API Integration"],
+  skills: ["Teamwork", "Adaptability", "Critical Thinking", "Communication", "Time Management"],
+  languagesSpoken: ["English", "Bangla"],
+  location: "Tongi, Gazipur, Bangladesh 🇧🇩",
+  openToWork: true,
+  challenge: "Currently exploring Node.js & building full-stack projects 🚀"
+};
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSBHasib&theme=tokyonight&hide_border=true&background=0d1117" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HSBHasib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSBHasib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+  <p><i>"Code is not just logic — it's craft."</i></p>
+</div>
