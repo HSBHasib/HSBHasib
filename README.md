@@ -3,21 +3,12 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/hasibur-rahman19/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/HSBHasib">
-    <img src="https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white" height="28"/>
-  </a>
-  &nbsp;
-  <a href="mailto:hasibhsb19@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28"/>
-  </a>
-  &nbsp;
-  <a href="https://hasib-portfolio-silk.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white" height="28"/>
-  </a>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/hasibur-rahman19/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=0d1117)](https://hasib-portfolio-silk.vercel.app/)
+[![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117)](https://github.com/HSBHasib)
+[![Gmail](https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117)](mailto:hasibhsb19@gmail.com)
+
 </div>
 
 <br/>
@@ -26,17 +17,17 @@
 
 <h3 align="center">Frontend Developer &nbsp;|&nbsp; Designing Scalable Systems &nbsp;|&nbsp; Dynamic Web Applications</h3>
 
-<p align="center">Building sleek, user-focused web experiences with modern, scalable technology.</p>
+<p align="center">Building sleek, user focused web experiences with modern, scalable technology.</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🟢%20Open%20to%20Work-Frontend%20Developer-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Frontend%20Developer-2ea043?style=for-the-badge" />
 </div>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-> I'm a **Frontend Developer** with expertise in **React**, **JavaScript**, and **Next.js**. I craft modern, scalable web applications, combining technical precision with creativity. I'm passionate about solving real-world problems through elegant, user-centered design, and I'm always optimizing for performance and user experience.
+> I'm a **Frontend Developer** with a strong foundation in **React**, **JavaScript**, and **Next.js**. I focus on writing clean, maintainable code that translates designs into fast, accessible interfaces. Every project I build is driven by a commitment to great user experience and performance.
 
 ---
 
@@ -49,9 +40,9 @@
 
 ### ❤️ My Absolute Favorites:
 
-- Tackling complex challenges, and continuously expanding my technical skills.
-- Collaborating on innovative projects and participating in tech communities.
-- I enjoy applying my knowledge to create solutions that make a real-world impact.
+- Breaking down complex UI problems and turning them into smooth, pixel-perfect experiences.
+- Working on projects where design and logic meet — that sweet spot between aesthetics and functionality.
+- Growing through open-source contributions, code reviews, and connecting with the dev community.
 
 ---
 
@@ -63,30 +54,49 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,mongodb,express&theme=dark" />
 </p>
 
-### 🎨 UI/UX & Productivity Tools
+### 🎨 Productivity & Dev Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,postman&theme=dark" />
 </p>
 
 ---
 
 ## 🧠 Code Profile
 
-```js
-const hasibweb = {
-  pronouns: "he/him",
-  languages: ["JavaScript", "HTML", "CSS"],
-  frameworksAndLibraries: ["React", "Next.js", "Tailwind CSS", "DaisyUI", "Hero UI"],
-  database: ["MongoDB"],
-  tools: ["Git", "GitHub", "VS Code", "Vercel", "Netlify", "Figma"],
-  architecture: ["Responsive Web Design", "Component-Based Design", "REST API Integration"],
-  skills: ["Teamwork", "Adaptability", "Critical Thinking", "Communication", "Time Management"],
-  languagesSpoken: ["English", "Bangla"],
-  location: "Tongi, Gazipur, Bangladesh 🇧🇩",
-  openToWork: true,
-  challenge: "Currently exploring Node.js & building full-stack projects 🚀"
-};
+```yaml
+# hasibur-rahman.config.yml
+
+identity:
+  name: "Hasibur Rahman"
+  pronouns: "he/him"
+  location: "Tongi, Gazipur, Bangladesh 🇧🇩"
+  role: "Frontend Developer"
+  open_to_work: true
+
+stack:
+  languages:   [JavaScript, HTML, CSS]
+  frameworks:  [React, Next.js, Tailwind CSS, Express.js]
+  database:    [MongoDB]
+  tools:       [Git, GitHub, VS Code, Vercel, Netlify, Postman]
+
+soft_skills:
+  - Teamwork & Collaboration
+  - Adaptability
+  - Critical Thinking
+  - Time Management
+  - Communication
+
+languages_spoken: [ Bangla ]
+
+current_goal: "Mastering Node.js & building production-ready full-stack apps 🚀"
 ```
 
 ---
+
+<div align="center">
+  <p><i>"Good code is not written — it's refined."</i></p>
+</div>
+
+
+
