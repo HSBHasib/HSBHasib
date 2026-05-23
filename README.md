@@ -20,7 +20,7 @@
 <p align="center">Building sleek, user focused web experiences with modern, scalable technology.</p>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Frontend%20Developer-2ea043?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Opportunities-Frontend%20Developer-2ea043?style=for-the-badge" />
 </div>
 
 ---
