@@ -87,7 +87,7 @@ soft_skills:
   - Time Management
   - Communication
 
-languages_spoken: [ Bangla ]
+languages_spoken: [ Bangla, Hindi]
 
 current_goal: "Mastering Node.js & building production-ready full-stack apps 🚀"
 ```
