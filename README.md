@@ -57,13 +57,13 @@
 </td>
 <td width="45%" valign="top">
 
-#### DocAppointment
+### DocAppointment
 A modern, beautiful, and fully functional Doctor Appointment Booking System built with React and Next.js.
 Access premium healthcare specialists, view detailed profiles, and manage appointments all in one sleek platform.
 
 🔗 **[Live Demo](https://docappointment-client.vercel.app/)** | **[GitHub](https://github.com/HSBHasib/DocAppoint-A9)**
 
-#### 🛠️ Tech Stack
+### 🛠️ Tech Stack
 * Next.js
 * React.js
 * JavaScript (ES6+)
@@ -132,7 +132,7 @@ Discover your perfect aesthetic, search through premium collections, and manage 
 </td>
 <td width="45%" valign="top">
 
-#### KeenKeeper
+### KeenKeeper
 A smart and intuitive friendship management web application to track, organize, and analyze your social interactions.
 
 🔗 **[Live Demo](https://keenkeeper-five.vercel.app/)** | **[GitHub](https://github.com/HSBHasib/KeenKeeper-A7)**
