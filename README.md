@@ -32,7 +32,6 @@
 ---
 
 ### 💬 Talking about Personal Stuff:
-
 - 🛠️ &nbsp;I'm currently working with **JavaScript**, **React**, and **Next.js** to build dynamic web applications.
 - 🚀 &nbsp;I'm currently exploring advanced concepts in **Node.js**, as well as diving into new fields.
 - 📫 &nbsp;Reach me out: **hasibhsb19@gmail.com**
@@ -50,8 +49,7 @@
 <!-- ============================================================
      
      ============================================================ -->
-# DocAppointment — Doctor Appointment Booking System
-
+#### DocAppointment — Doctor Appointment Booking System
 <table>
 <tr>
 <td width="55%">
@@ -59,7 +57,7 @@
 </td>
 <td width="45%" valign="top">
 
-### DocAppointment
+#### DocAppointment
 A modern and secure Next.js platform to seamlessly discover and book doctor appointments.
 
 🔗 **[Live Demo](https://docappointment-client.vercel.app/)** | **[GitHub](https://github.com/HSBHasib/DocAppoint-A9)**
@@ -70,6 +68,7 @@ A modern and secure Next.js platform to seamlessly discover and book doctor appo
 * Javascript
 * MongoDB
 * Express.js
+* Swiper.js
 * Tailwind CSS
 * Better Auth - (with JWT/Session state preservation)
 
@@ -86,39 +85,46 @@ A modern and secure Next.js platform to seamlessly discover and book doctor appo
 </tr>
 </table>
 
-
-
-# Tiles Gallery — Premium Interior Tiles Platform
-
+#### Tiles Gallery — Premium Interior Tiles Platform
 <table>
 <tr>
 <td width="55%">
-<!-- Replace this URL with your actual screenshot after uploading to assets/readme/ folder -->
-<img src="https://placehold.co/600x340/0d1117/58a6ff?text=Tiles+Gallery+Screenshot" alt="Tiles Gallery Preview" width="100%" style="border-radius:8px"/>
+<img alt="Tiles Gallery Preview" width="100%" style="border-radius:8px"  src="https://github.com/user-attachments/assets/099d0ed5-acec-4644-a6da-ced757afc4f9" />
 </td>
 <td width="45%" valign="top">
 
-### Tiles Gallery
-A modern Next.js platform to showcase and explore premium interior tiles.
+#### Tiles Gallery
+A modern and secure Next.js platform to seamlessly discover and book doctor appointments.
 
-🔗 **[Live Demo](#)** | **[GitHub](#)**
+🔗 **[Live Demo](https://tilesgallery-gbpq6kw46-hsbhasi.vercel.app/)** | **[GitHub](https://github.com/HSBHasib/Tiles-Gallery-A8)**
 
 #### 🛠️ Tech Stack
 * Next.js
+* React.js
+* Javascript
 * MongoDB
 * Express.js
-* Tailwind CSS
+* Swiper.js
+* Tailwind CSS & HeroUI
+* BetterAuth (with MongoDB Adapter & Session state preservation)
 
 #### ✨ Key Features
-* 🔍 Dynamic search and filter system
-* 📦 Detailed product specification pages
-* 👤 Async profile update dashboard
-* 🖼️ Multi-column responsive product grid
-* 📱 Mobile-first responsive layout
-
+* **Dynamic Marquee Banner:** Bold hero section with a scrolling marquee showcasing new arrivals and weekly featured patterns.
+* **Featured Premium Tiles:** Dynamically fetches and showcases the top 4 premium tile variants straight from the JSON database.
+* **HeroUI Powered Gallery:** Clean "All Tiles" gallery layout integrated with an interactive, stylized HeroUI search input.
+* **Instant Title Filtering:** Search and filter through the entire tile collection dynamically by title with zero latency.
+* **Detailed Specification Showcase:** Responsive 2-column layout displaying a high-resolution preview alongside critical specs (category, price, dimensions, material).
+* **Secure BetterAuth Integration:** Powered by BetterAuth with a MongoDB adapter, featuring custom Auth routes and seamless single-tap Google Social login.
 </td>
 </tr>
 </table>
+
+
+
+
+
+
+
 
 
 KeenKeeper — Relationship Management Tracker
