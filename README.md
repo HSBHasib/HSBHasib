@@ -46,6 +46,106 @@
 
 ---
 
+### 🚀 Featured Projects
+<!-- ============================================================
+     
+     ============================================================ -->
+# DocAppointment — Doctor Appointment Booking System
+
+<table>
+<tr>
+<td width="55%">
+  <img alt="DocAppointment Preview" width="100%" style="border-radius:8px" src="https://github.com/user-attachments/assets/7daf28e9-3f1f-4e9f-957a-5468bf66da5c" />
+</td>
+<td width="45%" valign="top">
+
+### DocAppointment
+A modern and secure Next.js platform to seamlessly discover and book doctor appointments.
+
+🔗 **[Live Demo](https://docappointment-client.vercel.app/)** | **[GitHub](https://github.com/HSBHasib/DocAppoint-A9)**
+
+#### 🛠️ Tech Stack
+* Next.js
+* React.js
+* Javascript
+* MongoDB
+* Express.js
+* Tailwind CSS
+* Better Auth - (with JWT/Session state preservation)
+
+#### ✨ Key Features
+* **Top-Rated Doctors:** Displays top-rated doctors dynamically in a clean 3-column grid layout.
+* **Instant Search:** Find doctors instantly by name on the appointments page.
+* **Doctor Profiles:** Detailed 2-column dashboard layout showing specialty, experience, fees, and institution.
+* **Interactive Booking:** Modal-based booking form that saves data directly to MongoDB with real-time toast notifications.
+* **Secure Authentication:** Powered by Better Auth to maintain session persistence even after a hard refresh.
+* **Profile Dashboard:** Users can update their name, info, and profile photo instantly.
+* **Manage Bookings:** Private user route to reschedule or cancel appointments with instant UI updates.
+
+</td>
+</tr>
+</table>
+
+
+
+# Tiles Gallery — Premium Interior Tiles Platform
+
+<table>
+<tr>
+<td width="55%">
+<!-- Replace this URL with your actual screenshot after uploading to assets/readme/ folder -->
+<img src="https://placehold.co/600x340/0d1117/58a6ff?text=Tiles+Gallery+Screenshot" alt="Tiles Gallery Preview" width="100%" style="border-radius:8px"/>
+</td>
+<td width="45%" valign="top">
+
+### Tiles Gallery
+A modern Next.js platform to showcase and explore premium interior tiles.
+
+🔗 **[Live Demo](#)** | **[GitHub](#)**
+
+#### 🛠️ Tech Stack
+* Next.js
+* MongoDB
+* Express.js
+* Tailwind CSS
+
+#### ✨ Key Features
+* 🔍 Dynamic search and filter system
+* 📦 Detailed product specification pages
+* 👤 Async profile update dashboard
+* 🖼️ Multi-column responsive product grid
+* 📱 Mobile-first responsive layout
+
+</td>
+</tr>
+</table>
+
+
+KeenKeeper — Relationship Management Tracker
+<table>
+<tr>
+<td width="55%">
+<!-- Replace this URL with your actual screenshot after uploading to assets/readme/ folder -->
+<img src="https://placehold.co/600x340/0d1117/58a6ff?text=KeenKeeper+Screenshot" alt="KeenKeeper Preview" width="100%" style="border-radius:8px"/>
+</td>
+<td width="45%" valign="top">
+A smart platform to track and nurture personal relationships.
+🔗 Live Demo  |  GitHub
+Tech Stack:
+React.js Firebase Tailwind CSS React Router
+Key Features:
+
+📋 Log and track communication history
+📊 Structured timeline and interaction analysis
+🔐 Firebase authentication
+📱 Responsive mobile-first UI
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 🛠️ Tech Stack & Tools
 
 ### ⚙️ Languages & Frameworks
