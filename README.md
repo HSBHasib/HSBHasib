@@ -58,14 +58,15 @@
 <td width="45%" valign="top">
 
 #### DocAppointment
-A modern and secure Next.js platform to seamlessly discover and book doctor appointments.
+A modern, beautiful, and fully functional Doctor Appointment Booking System built with React and Next.js.
+Access premium healthcare specialists, view detailed profiles, and manage appointments all in one sleek platform.
 
 🔗 **[Live Demo](https://docappointment-client.vercel.app/)** | **[GitHub](https://github.com/HSBHasib/DocAppoint-A9)**
 
 #### 🛠️ Tech Stack
 * Next.js
 * React.js
-* Javascript
+* JavaScript (ES6+)
 * MongoDB
 * Express.js
 * Swiper.js
@@ -89,19 +90,22 @@ A modern and secure Next.js platform to seamlessly discover and book doctor appo
 <table>
 <tr>
 <td width="55%">
-<img alt="Tiles Gallery Preview" width="100%" style="border-radius:8px"  src="https://github.com/user-attachments/assets/099d0ed5-acec-4644-a6da-ced757afc4f9" />
+<img alt="Tiles Gallery Preview" width="100%" style="border-radius:8px" src="https://github.com/user-attachments/assets/3e88f341-94b8-4819-8af1-017c39e7b96d" />  
 </td>
 <td width="45%" valign="top">
 
+
+
 #### Tiles Gallery
-A modern and secure Next.js platform to seamlessly discover and book doctor appointments.
+A modern, beautiful, and fully functional Artisanal & Editorial Surfaces Marketplace built with Next.js.
+Discover your perfect aesthetic, search through premium collections, and manage your custom profile seamlessly.
 
 🔗 **[Live Demo](https://tilesgallery-gbpq6kw46-hsbhasi.vercel.app/)** | **[GitHub](https://github.com/HSBHasib/Tiles-Gallery-A8)**
 
 #### 🛠️ Tech Stack
 * Next.js
 * React.js
-* Javascript
+* JavaScript (ES6+)
 * MongoDB
 * Express.js
 * Swiper.js
@@ -127,24 +131,35 @@ A modern and secure Next.js platform to seamlessly discover and book doctor appo
 
 
 
-KeenKeeper — Relationship Management Tracker
+
+
+
+#### KeenKeeper — Relationship Management Tracker
 <table>
 <tr>
 <td width="55%">
-<!-- Replace this URL with your actual screenshot after uploading to assets/readme/ folder -->
-<img src="https://placehold.co/600x340/0d1117/58a6ff?text=KeenKeeper+Screenshot" alt="KeenKeeper Preview" width="100%" style="border-radius:8px"/>
+  <img alt="KeenKeeper Preview" width="100%" style="border-radius:8px" src="https://github.com/user-attachments/assets/07c0bfe2-df53-4d3b-a738-18f891233e2a" />
 </td>
 <td width="45%" valign="top">
-A smart platform to track and nurture personal relationships.
-🔗 Live Demo  |  GitHub
-Tech Stack:
-React.js Firebase Tailwind CSS React Router
-Key Features:
 
-📋 Log and track communication history
-📊 Structured timeline and interaction analysis
-🔐 Firebase authentication
-📱 Responsive mobile-first UI
+#### 
+A smart and intuitive friendship management web application to track, organize, and analyze your social interactions.
+
+🔗 **[Live Demo](https://keenkeeper-five.vercel.app/)** | **[GitHub](https://github.com/HSBHasib/KeenKeeper-A7)**
+
+#### 🛠️ Tech Stack
+* React.js
+* React Router DOM
+* JavaScript (ES6+)
+* Tailwind CSS & DaisyUI
+
+#### ✨ Key Features
+* **Multi-Channel Logging:** Log daily communications instantly, including Phone Calls, Text Messages, and Video Chats.
+* **Interaction Categorization:** Categorize contact types to easily analyze and visualize your most frequent communication habits.
+* **Chronological Activity Feed:** View a clean, time-ordered history of all registered friend activities in one place.
+* **Last Contact Tracker:** Instantly check the exact date and time you last reached out to any specific contact.
+* **Recharts Data Visualization:** Integrated interactive charts that dynamically break down your social engagement patterns.
+* **React-Toastify Alert Banners:** Instant visual feedback and dynamic toast notifications for successful logs, additions, and updates.
 
 </td>
 </tr>
@@ -181,7 +196,7 @@ identity:
   open_to_work: true
 
 stack:
-  languages:   [JavaScript, HTML, CSS]
+  languages:   [JavaScript (ES6+), HTML, CSS]
   frameworks:  [React, Next.js, Tailwind CSS, Express.js]
   database:    [MongoDB]
   tools:       [Git, GitHub, VS Code, Vercel, Netlify, Postman]
