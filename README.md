@@ -124,16 +124,6 @@ Discover your perfect aesthetic, search through premium collections, and manage 
 </table>
 
 
-
-
-
-
-
-
-
-
-
-
 #### KeenKeeper — Relationship Management Tracker
 <table>
 <tr>
@@ -142,7 +132,7 @@ Discover your perfect aesthetic, search through premium collections, and manage 
 </td>
 <td width="45%" valign="top">
 
-#### 
+#### KeenKeeper
 A smart and intuitive friendship management web application to track, organize, and analyze your social interactions.
 
 🔗 **[Live Demo](https://keenkeeper-five.vercel.app/)** | **[GitHub](https://github.com/HSBHasib/KeenKeeper-A7)**
