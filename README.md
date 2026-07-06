@@ -198,7 +198,7 @@ soft_skills:
   - Time Management
   - Communication
 
-languages_spoken: [ Bangla, Hindi]
+languages_spoken: [ Bangla, Hindi, English]
 
 current_goal: "Mastering Node.js & building production-ready full-stack apps 🚀"
 ```
@@ -208,6 +208,8 @@ current_goal: "Mastering Node.js & building production-ready full-stack apps �
 <div align="center">
   <p><i>"Good code is not written — it's refined."</i></p>
 </div>
+
+
 
 
 
