@@ -57,19 +57,25 @@
       <img src="https://github.com/user-attachments/assets/b2873344-f5eb-4b6c-ac38-3b3e5016fa96"![Uploading screencapture-docappointment-client-vercel-app-2026-07-09-13_56_58.png…]()
  width="100%" style="border-radius:6px" alt="KeenKeeper"/>
       <br/><br/>
-      <strong>promptHive</strong>
+      <strong>PromptHive</strong>
       <br/>
-      <sub>Relationship Management Tracker</sub>
+      <sub>AI Prompt Sharing & Marketplace Platform</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
-      <img src="https://img.shields.io/badge/DaisyUI-0d1117?style=flat-square&logo=daisyui&logoColor=FF9903"/>
+      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/> 
+      <img src="https://img.shields.io/badge/Javascript-0d1117?style=flat-square&logo=javascript&logoColor=yellow"/> 
+      <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=green"/> 
+      <img src="https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4DB33D"/> 
+      <img src="https://img.shields.io/badge/BetterAuth-0d1117?style=flat-square&logo=auth0&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Stripe-0d1117?style=flat-square&logo=stripe&logoColor=6772E5"/>
+      <img src="https://img.shields.io/badge/Framer Motion-0d1117?style=flat-square&logo=framer&logoColor=white"/>
       <br/><br/>
-      <sub>Log calls, texts, and video chats, track last contact dates, visualize engagement with Recharts, and get instant feedback via React-Toastify notifications.</sub>
+      <sub>Discover, create, bookmark, and manage AI prompts with role-based dashboards, Stripe premium subscriptions, JWT security, analytics, and MongoDB aggregation.</sub>
       <br/><br/>
-      <a href="https://keenkeeper-five.vercel.app/"><img src="https://img.shields.io/badge/Live Demo-2ea043?style=flat-square&logo=vercel&logoColor=white"/></a>
+      <a href="https://prompt-hive-gamma.vercel.app"><img src="https://img.shields.io/badge/Live Demo-2ea043?style=flat-square&logo=vercel&logoColor=white"/></a>
       &nbsp;
-      <a href="https://github.com/HSBHasib/KeenKeeper-A7"><img src="https://img.shields.io/badge/Source Code-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/HSBHasib/PromptHive-A10"><img src="https://img.shields.io/badge/Source Code-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="34%" align="center">
       <img src="https://github.com/user-attachments/assets/2a8b0c98-276c-443d-8d66-123f9d664734" width="100%" style="border-radius:6px" alt="DocAppoint"/>
@@ -78,9 +84,14 @@
       <br/>
       <sub>Doctor Appointment Booking System</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4DB33D"/>
-      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
+       <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white"/> 
+       <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/> 
+       <img src="https://img.shields.io/badge/Javascript-0d1117?style=flat-square&logo=javascript&logoColor=yellow"/> 
+       <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=green"/> 
+       <img src="https://img.shields.io/badge/Express.js-0d1117?style=flat-square&logo=express&logoColor=white"/> 
+       <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4DB33D"/> 
+       <img src="https://img.shields.io/badge/BetterAuth-0d1117?style=flat-square&logo=auth0&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Swiper.js-0d1117?style=flat-square&logo=swiper&logoColor=white"/>
       <br/><br/>
       <sub>Search doctors by name or specialty, book appointments via modal form, manage bookings from a private dashboard, and stay logged in with BetterAuth session persistence.</sub>
       <br/><br/>
@@ -95,9 +106,12 @@
       <br/>
       <sub>Premium Interior Tiles Marketplace</sub>
       <br/><br/>
-      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4DB33D"/>
-      <img src="https://img.shields.io/badge/HeroUI-0d1117?style=flat-square&logo=react&logoColor=58a6ff"/>
+       <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white"/> 
+       <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/> 
+       <img src="https://img.shields.io/badge/Javascript-0d1117?style=flat-square&logo=javascript&logoColor=yellow"/> 
+       <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4DB33D"/> 
+       <img src="https://img.shields.io/badge/BetterAuth-0d1117?style=flat-square&logo=auth0&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Swiper.js-0d1117?style=flat-square&logo=swiper&logoColor=white"/>
       <br/><br/>
       <sub>Browse and instantly search premium tiles by title, view detailed specs in a 2-column layout, and sign in with Google via BetterAuth with MongoDB session adapter.</sub>
       <br/><br/>
