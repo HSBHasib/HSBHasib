@@ -187,17 +187,11 @@ current_goal: "Mastering backend + TypeScript and building production-ready full
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSBHasib&theme=tokyonight&hide_border=true&background=0d1117" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HSBHasib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSBHasib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer" width="100%"/>
   <p><i>"Good code is not written — it's refined."</i></p>
 </div>
-
 
