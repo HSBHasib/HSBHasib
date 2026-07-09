@@ -55,7 +55,7 @@
   <tr>
      <td width="32%" align="center">
       <img src="https://github.com/user-attachments/assets/b2873344-f5eb-4b6c-ac38-3b3e5016fa96"![Uploading screencapture-docappointment-client-vercel-app-2026-07-09-13_56_58.png…]()
- width="100%" style="border-radius:6px" alt="KeenKeeper"/>
+ width="100%" style="border-radius:6px" alt="PromptHive"/>
       <br/><br/>
       <strong>PromptHive</strong>
       <br/>
