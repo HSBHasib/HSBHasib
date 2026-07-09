@@ -140,6 +140,14 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSBHasib&theme=tokyonight&hide_border=true&background=0d1117" />
+</div>
+
+---
+
 ## 🧠 Code Profile
 
 ```yaml
@@ -180,14 +188,6 @@ languages_spoken: [Bangla, English]
 
 current_goal: "Mastering backend + TypeScript and building production-ready full-stack apps 🚀"
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSBHasib&theme=tokyonight&hide_border=true&background=0d1117" />
-</div>
 
 ---
 
