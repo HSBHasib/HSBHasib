@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:161b22&height=220&section=header&text=Frontend%20Developer&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=WELCOME%20TO%20MY%20PROFILE&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2027,100:161b22&height=220&section=header&text=Frontend%20Developer&fontSize=52&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=WELCOME%20TO%20MY%20PROFILE&descAlignY=60&descSize=18&descColor=8b949e" width="100%"/>
 </div>
 
 <div align="center">
@@ -7,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff&labelColor=0d1117)](https://www.linkedin.com/in/hasibur-rahman19/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=58a6ff&labelColor=0d1117)](https://hasib-portfolio-silk.vercel.app/)
 [![GitHub](https://img.shields.io/badge/-GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff&labelColor=0d1117)](https://github.com/HSBHasib)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=58a6ff&labelColor=0d1117)](https://leetcode.com/u/HSBHasib)
 [![Gmail](https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff&labelColor=0d1117)](mailto:hasibhsb19@gmail.com)
 
 </div>
@@ -17,7 +17,7 @@
 
 <h3 align="center">Frontend Developer &nbsp;|&nbsp; Designing Scalable Systems &nbsp;|&nbsp; Dynamic Web Applications</h3>
 
-<p align="center">Building sleek, user focused web experiences with modern, scalable technology.</p>
+<p align="center">Building sleek, user-focused web experiences with modern, scalable technology.</p>
 
 <div align="center">
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Opportunities-Frontend%20Developer-2ea043?style=for-the-badge" />
@@ -32,8 +32,12 @@
 ---
 
 ### 💬 Talking about Personal Stuff:
+
 - 🛠️ &nbsp;I'm currently working with **JavaScript**, **React**, and **Next.js** to build dynamic web applications.
-- 🚀 &nbsp;I'm currently exploring advanced concepts in **Node.js**, as well as diving into new fields.
+- 🔭 &nbsp;I'm currently diving deep into **Advanced Backend Development** and combining it with my frontend skills to build full-stack projects.
+- 🧠 &nbsp;I'm learning **TypeScript** and planning to integrate it into upcoming projects.
+- ⚔️ &nbsp;I'm solving **LeetCode problems daily** in both **JavaScript** and **Java** to sharpen my problem-solving and DSA skills.
+- ☕ &nbsp;I've been practicing **Java** for a while and recently started using it for competitive problem solving alongside JS.
 - 📫 &nbsp;Reach me out: **hasibhsb19@gmail.com**
 - 📍 &nbsp;Based in **Tongi, Gazipur, Bangladesh 🇧🇩**
 
@@ -45,114 +49,63 @@
 
 ---
 
-### 🚀 Featured Projects
-<!-- ============================================================
-     
-     ============================================================ -->
-#### DocAppointment — Doctor Appointment Booking System
+## 🚀 Featured Projects
+
 <table>
-<tr>
-<td width="55%">
-  <img alt="DocAppointment Preview" width="100%" style="border-radius:8px" src="https://github.com/user-attachments/assets/7daf28e9-3f1f-4e9f-957a-5468bf66da5c" />
-</td>
-<td width="45%" valign="top">
-
-### DocAppointment
-A modern, beautiful, and fully functional Doctor Appointment Booking System built with React and Next.js.
-Access premium healthcare specialists, view detailed profiles, and manage appointments all in one sleek platform.
-
-🔗 **[Live Demo](https://docappointment-client.vercel.app/)** | **[GitHub](https://github.com/HSBHasib/DocAppoint-A9)**
-
-### 🛠️ Tech Stack
-* Next.js
-* React.js
-* JavaScript (ES6+)
-* MongoDB
-* Express.js
-* Swiper.js
-* Tailwind CSS
-* Better Auth - (with JWT/Session state preservation)
-
-#### ✨ Key Features
-* **Top-Rated Doctors:** Displays top-rated doctors dynamically in a clean 3-column grid layout.
-* **Instant Search:** Find doctors instantly by name on the appointments page.
-* **Doctor Profiles:** Detailed 2-column dashboard layout showing specialty, experience, fees, and institution.
-* **Interactive Booking:** Modal-based booking form that saves data directly to MongoDB with real-time toast notifications.
-* **Secure Authentication:** Powered by Better Auth to maintain session persistence even after a hard refresh.
-* **Profile Dashboard:** Users can update their name, info, and profile photo instantly.
-* **Manage Bookings:** Private user route to reschedule or cancel appointments with instant UI updates.
-
-</td>
-</tr>
-</table>
-
-#### Tiles Gallery — Premium Interior Tiles Platform
-<table>
-<tr>
-<td width="55%">
-<img alt="Tiles Gallery Preview" width="100%" style="border-radius:8px" src="https://github.com/user-attachments/assets/3e88f341-94b8-4819-8af1-017c39e7b96d" />  
-</td>
-<td width="45%" valign="top">
-
-
-
-#### Tiles Gallery
-A modern, beautiful, and fully functional Artisanal & Editorial Surfaces Marketplace built with Next.js.
-Discover your perfect aesthetic, search through premium collections, and manage your custom profile seamlessly.
-
-🔗 **[Live Demo](https://tilesgallery-gbpq6kw46-hsbhasi.vercel.app/)** | **[GitHub](https://github.com/HSBHasib/Tiles-Gallery-A8)**
-
-#### 🛠️ Tech Stack
-* Next.js
-* React.js
-* JavaScript (ES6+)
-* MongoDB
-* Express.js
-* Swiper.js
-* Tailwind CSS & HeroUI
-* BetterAuth (with MongoDB Adapter & Session state preservation)
-
-#### ✨ Key Features
-* **Dynamic Marquee Banner:** Bold hero section with a scrolling marquee showcasing new arrivals and weekly featured patterns.
-* **Featured Premium Tiles:** Dynamically fetches and showcases the top 4 premium tile variants straight from the JSON database.
-* **HeroUI Powered Gallery:** Clean "All Tiles" gallery layout integrated with an interactive, stylized HeroUI search input.
-* **Instant Title Filtering:** Search and filter through the entire tile collection dynamically by title with zero latency.
-* **Detailed Specification Showcase:** Responsive 2-column layout displaying a high-resolution preview alongside critical specs (category, price, dimensions, material).
-* **Secure BetterAuth Integration:** Powered by BetterAuth with a MongoDB adapter, featuring custom Auth routes and seamless single-tap Google Social login.
-</td>
-</tr>
-</table>
-
-
-#### KeenKeeper — Relationship Management Tracker
-<table>
-<tr>
-<td width="55%">
-  <img alt="KeenKeeper Preview" width="100%" style="border-radius:8px" src="https://github.com/user-attachments/assets/07c0bfe2-df53-4d3b-a738-18f891233e2a" />
-</td>
-<td width="45%" valign="top">
-
-### KeenKeeper
-A smart and intuitive friendship management web application to track, organize, and analyze your social interactions.
-
-🔗 **[Live Demo](https://keenkeeper-five.vercel.app/)** | **[GitHub](https://github.com/HSBHasib/KeenKeeper-A7)**
-
-#### 🛠️ Tech Stack
-* React.js
-* React Router DOM
-* JavaScript (ES6+)
-* Tailwind CSS & DaisyUI
-
-#### ✨ Key Features
-* **Multi-Channel Logging:** Log daily communications instantly, including Phone Calls, Text Messages, and Video Chats.
-* **Interaction Categorization:** Categorize contact types to easily analyze and visualize your most frequent communication habits.
-* **Chronological Activity Feed:** View a clean, time-ordered history of all registered friend activities in one place.
-* **Last Contact Tracker:** Instantly check the exact date and time you last reached out to any specific contact.
-* **Recharts Data Visualization:** Integrated interactive charts that dynamically break down your social engagement patterns.
-* **React-Toastify Alert Banners:** Instant visual feedback and dynamic toast notifications for successful logs, additions, and updates.
-
-</td>
-</tr>
+  <tr>
+     <td width="32%" align="center">
+      <img src="https://github.com/user-attachments/assets/b2873344-f5eb-4b6c-ac38-3b3e5016fa96"![Uploading screencapture-docappointment-client-vercel-app-2026-07-09-13_56_58.png…]()
+ width="100%" style="border-radius:6px" alt="KeenKeeper"/>
+      <br/><br/>
+      <strong>promptHive</strong>
+      <br/>
+      <sub>Relationship Management Tracker</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
+      <img src="https://img.shields.io/badge/DaisyUI-0d1117?style=flat-square&logo=daisyui&logoColor=FF9903"/>
+      <br/><br/>
+      <sub>Log calls, texts, and video chats, track last contact dates, visualize engagement with Recharts, and get instant feedback via React-Toastify notifications.</sub>
+      <br/><br/>
+      <a href="https://keenkeeper-five.vercel.app/"><img src="https://img.shields.io/badge/Live Demo-2ea043?style=flat-square&logo=vercel&logoColor=white"/></a>
+      &nbsp;
+      <a href="https://github.com/HSBHasib/KeenKeeper-A7"><img src="https://img.shields.io/badge/Source Code-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="34%" align="center">
+      <img src="https://github.com/user-attachments/assets/2a8b0c98-276c-443d-8d66-123f9d664734" width="100%" style="border-radius:6px" alt="DocAppoint"/>
+      <br/><br/>
+      <strong>DocAppoint</strong>
+      <br/>
+      <sub>Doctor Appointment Booking System</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4DB33D"/>
+      <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=38BDF8"/>
+      <br/><br/>
+      <sub>Search doctors by name or specialty, book appointments via modal form, manage bookings from a private dashboard, and stay logged in with BetterAuth session persistence.</sub>
+      <br/><br/>
+      <a href="https://docappointment-client.vercel.app/"><img src="https://img.shields.io/badge/Live Demo-2ea043?style=flat-square&logo=vercel&logoColor=white"/></a>
+      &nbsp;
+      <a href="https://github.com/HSBHasib/DocAppoint-A9"><img src="https://img.shields.io/badge/Source Code-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+    <td width="34%" align="center">
+      <img src="https://github.com/user-attachments/assets/c1aa19f8-4487-4fce-8a2d-9698ed027b90" width="100%" style="border-radius:6px" alt="Tiles Gallery"/>
+      <br/><br/>
+      <strong>Tiles Gallery</strong>
+      <br/>
+      <sub>Premium Interior Tiles Marketplace</sub>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=4DB33D"/>
+      <img src="https://img.shields.io/badge/HeroUI-0d1117?style=flat-square&logo=react&logoColor=58a6ff"/>
+      <br/><br/>
+      <sub>Browse and instantly search premium tiles by title, view detailed specs in a 2-column layout, and sign in with Google via BetterAuth with MongoDB session adapter.</sub>
+      <br/><br/>
+      <a href="https://tilesgallery-gbpq6kw46-hsbhasi.vercel.app/"><img src="https://img.shields.io/badge/Live Demo-2ea043?style=flat-square&logo=vercel&logoColor=white"/></a>
+      &nbsp;
+      <a href="https://github.com/HSBHasib/Tiles-Gallery-A8"><img src="https://img.shields.io/badge/Source Code-0d1117?style=flat-square&logo=github&logoColor=white"/></a>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -162,7 +115,7 @@ A smart and intuitive friendship management web application to track, organize, 
 ### ⚙️ Languages & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,nextjs,nodejs,mongodb,express&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,tailwind,react,nextjs,nodejs,mongodb,express&theme=dark" />
 </p>
 
 ### 🎨 Productivity & Dev Tools
@@ -183,13 +136,24 @@ identity:
   pronouns: "he/him"
   location: "Tongi, Gazipur, Bangladesh 🇧🇩"
   role: "Frontend Developer"
-  open_to_work: true
+  open_to_opportunities: true
 
 stack:
-  languages:   [JavaScript (ES6+), HTML, CSS]
+  languages:   [JavaScript (ES6+), TypeScript, Java, HTML, CSS]
   frameworks:  [React, Next.js, Tailwind CSS, Express.js]
   database:    [MongoDB]
   tools:       [Git, GitHub, VS Code, Vercel, Netlify, Postman]
+
+currently_learning:
+  - Advanced Backend Development
+  - TypeScript (integrating into upcoming projects)
+  - Data Structures & Algorithms (DSA)
+
+problem_solving:
+  platform: LeetCode
+  profile: "https://leetcode.com/u/HSBHasib"
+  languages: [JavaScript, Java]
+  goal: "Solve at least one problem every day"
 
 soft_skills:
   - Teamwork & Collaboration
@@ -198,18 +162,28 @@ soft_skills:
   - Time Management
   - Communication
 
-languages_spoken: [ Bangla, Hindi, English]
+languages_spoken: [Bangla, English]
 
-current_goal: "Mastering Node.js & building production-ready full-stack apps 🚀"
+current_goal: "Mastering backend + TypeScript and building production-ready full-stack apps 🚀"
 ```
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <p><i>"Good code is not written — it's refined."</i></p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HSBHasib&theme=tokyonight&hide_border=true&background=0d1117" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HSBHasib&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HSBHasib&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
+---
 
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=120&section=footer" width="100%"/>
+  <p><i>"Good code is not written — it's refined."</i></p>
+</div>
 
 
