@@ -33,10 +33,10 @@
 
 ### 💬 Talking about Personal Stuff:
 
-- 🛠️ &nbsp;I'm currently working with **JavaScript**, **React**, and **Next.js** to build dynamic web applications.
+- 🛠️ &nbsp;I'm currently working with **JavaScript**, **Typescript**, **React**, and **Next.js** to build dynamic web applications.
 - 🔭 &nbsp;I'm currently diving deep into **Advanced Backend Development** and combining it with my frontend skills to build full-stack projects.
-- 🧠 &nbsp;I'm learning **TypeScript** and planning to integrate it into upcoming projects.
-- ⚔️ &nbsp;I'm solving **LeetCode problems daily** in both **JavaScript** and **Java** to sharpen my problem-solving and DSA skills.
+- 🧠 &nbsp;I'm learning **Advance Backend** and planning to integrate it into upcoming projects.
+- ⚔️ &nbsp;I'm solving **LeetCode problems daily** in both **JavaScript** and **Java** to sharpen my problem solving and DSA skills.
 - ☕ &nbsp;I've been practicing **Java** for a while and recently started using it for competitive problem solving alongside JS.
 - 📫 &nbsp;Reach me out: **hasibhsb19@gmail.com**
 - 📍 &nbsp;Based in **Tongi, Gazipur, Bangladesh 🇧🇩**
@@ -163,12 +163,11 @@ identity:
 stack:
   languages:   [JavaScript (ES6+), TypeScript, Java, HTML, CSS]
   frameworks:  [React, Next.js, Tailwind CSS, Express.js]
-  database:    [MongoDB]
-  tools:       [Git, GitHub, VS Code, Vercel, Netlify, Postman]
+  database:    [MongoDB, PostgreSQL, SQL, Prisma]
+  tools:       [Git, GitHub, VS Code, Vercel, Netlify, Render, Postman]
 
 currently_learning:
   - Advanced Backend Development
-  - TypeScript (integrating into upcoming projects)
   - Data Structures & Algorithms (DSA)
 
 problem_solving:
@@ -184,9 +183,9 @@ soft_skills:
   - Time Management
   - Communication
 
-languages_spoken: [Bangla, English]
+languages_spoken: [Bangla, English, Hindi]
 
-current_goal: "Mastering backend + TypeScript and building production-ready full-stack apps 🚀"
+current_goal: "Mastering backend and building production-ready full-stack apps 🚀"
 ```
 
 ---
@@ -194,6 +193,5 @@ current_goal: "Mastering backend + TypeScript and building production-ready full
 <div align="center">
   <p><i>"Good code is not written — it's refined."</i></p>
 </div>
-
 
 
