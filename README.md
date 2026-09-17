@@ -27,13 +27,13 @@
 
 ## 🙋‍♂️ About Me
 
-> I'm a **Frontend Developer** with a strong foundation in **React**, **JavaScript**, and **Next.js**. I focus on writing clean, maintainable code that translates designs into fast, accessible interfaces. Every project I build is driven by a commitment to great user experience and performance.
+> I'm a **Frontend Developer** with a strong foundation in **React**, **JavaScript**, **Typescript**, and **Next.js**. I focus on writing clean, maintainable code that translates designs into fast, accessible interfaces. Every project I build is driven by a commitment to great user experience and performance.
 
 ---
 
 ### 💬 Talking about Personal Stuff:
 
-- 🛠️ &nbsp;I'm currently working with **JavaScript**, **Typescript**, **React**, and **Next.js** to build dynamic web applications.
+- 🛠️ &nbsp;I'm currently working with **Typescript**, **React**, and **Next.js** to build dynamic web applications.
 - 🔭 &nbsp;I'm currently diving deep into **Advanced Backend Development** and combining it with my frontend skills to build full-stack projects.
 - 🧠 &nbsp;I'm learning **Advance Backend** and planning to integrate it into upcoming projects.
 - ⚔️ &nbsp;I'm solving **LeetCode problems daily** in both **JavaScript** and **Java** to sharpen my problem solving and DSA skills.
