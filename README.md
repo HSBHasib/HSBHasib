@@ -195,7 +195,3 @@ current_goal: "Mastering backend and building production-ready full-stack apps ð
 <div align="center">
   <p><i>"Good code is not written â€” it's refined."</i></p>
 </div>
-
-
-
-
